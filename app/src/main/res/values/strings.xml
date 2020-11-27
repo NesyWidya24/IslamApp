@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">IslamApp</string>
+    <string name="learn_islam">Learn Islam</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotPass">Forgot password?</string>
+    <string name="loginGoogle">Login with Google</string>
+    <string name="signUp">New User? <b>Sign In</b></string>
+    <string name="otherLogin">Or login with</string>
+    <string name="register">Register</string>
+    <string name="loginHere">Already have account? Login</string>
 </resources>
